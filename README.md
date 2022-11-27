@@ -14,3 +14,4 @@ View Employee
 #### Employee Update Page![Screenshot (890)](https://user-images.githubusercontent.com/101393436/204155898-d6cf0975-16c1-488c-af67-467388021045.png)
 
 #### Add Employee Page
+![EmpSave](https://user-images.githubusercontent.com/101393436/204156093-f8239893-630b-41b4-87e3-3111d7cc0717.png)
