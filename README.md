@@ -2,10 +2,10 @@
 
 Tech stack :- Spring, Java, Hibernate, MySql, Thymeleaf
 
-#CRUD OPERATION :-
-#Add Employee
-#Update Employee
-#Delete Employee
-#View Employee
+#CRUD OPERATION :-<br>
+Add Employee<br>
+Update Employee<br>
+Delete Employee<br>
+View Employee
 
 
